@@ -44,7 +44,7 @@ const App: React.FC = () => {
                 <div className="relative inline-block mb-6">
                   <div className="absolute -inset-4 bg-amber-500/20 rounded-full blur-xl group-hover:bg-amber-500/30 transition-colors no-print"></div>
                   <img
-                    src="headshot.png"
+                     src="https://drive.google.com/uc?export=download&id=1zubSrIzZBA8Pwm8DvOiDvtn9D86vNDkR"
                     alt="Maitreya Gokhale"
                     className="w-48 h-48 rounded-full object-cover border-4 border-amber-500/50 relative shadow-2xl transition-all duration-500"
                     onError={(e) => {
